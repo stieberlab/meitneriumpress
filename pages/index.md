@@ -7,5 +7,12 @@ title: Meitnerium Press
 Written by S. Chantal E. Stieber with Justine Wong
 Illustrated by Justine Wong
 
-> A children's book about real life chemistry
+>
+> Join Cat and Elephant as they bake a birthday cake for their friend Mouse
+> and solve the mystery of why sugar is shiny.  Along the way, they learn about
+> crystals, X-rays, chemistry, and more. 
 > 
+
+![Cover Art](img/cover.jpg)
+
+Available for purchase soon
