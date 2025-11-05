@@ -13,6 +13,6 @@ Illustrated by Justine Wong
 > crystals, X-rays, chemistry, and more. 
 > 
 
-![Cover Art](img/cover.jpg)
+![Cover Art](img/cover.jpg)\
 
-Available for purchase soon
+# Available for purchase soon
