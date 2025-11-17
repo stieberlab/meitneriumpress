@@ -15,4 +15,6 @@ Illustrated by Justine Wong
 
 ![Cover Art](img/cover.jpg)\
 
-# Available for purchase soon
+[Buy Now](https://meitnerium-press.myshopify.com/products/x-ray-crystallography-adventures-cat-elephants-sugar-crystal-mystery){.buy-btn}
+
+For bulk purchases or custom orders, please email [meitneriumpress@gmail.com](mailto:meitneriumpress@gmail.com)
