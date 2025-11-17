@@ -18,7 +18,26 @@ ul {
     text-align: left;
 }
 
-.img {
+p.img {
     max-width: 100%;
     height: auto;
 }
+
+.buy-btn {
+      background: green;
+      color: white;
+      border: none;
+      border-radius: 30px;
+      padding: 14px 36px;
+      font-size: 1.2rem;
+      font-weight: 600;
+      box-shadow: 0 4px 16px rgba(25, 118, 210, 0.12);
+      cursor: pointer;
+      transition: background 0.3s, transform 0.2s;
+      outline: none;
+    }
+    .buy-btn:hover, .buy-btn:focus {
+      background: lightgreen;
+      transform: translateY(-2px) scale(1.04);
+      box-shadow: 0 6px 20px rgba(25, 118, 210, 0.18);
+    }
