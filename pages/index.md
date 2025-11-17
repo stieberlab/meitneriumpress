@@ -13,7 +13,7 @@ Illustrated by Justine Wong
 > crystals, X-rays, chemistry, and more. 
 > 
 
-![Cover Art](img/cover.jpg)\{#bookimg .bookimg}
+![Cover Art](img/cover.jpg){.bookimg}\
 
 
 [Buy Now](https://meitnerium-press.myshopify.com/products/x-ray-crystallography-adventures-cat-elephants-sugar-crystal-mystery){.buy-btn}
