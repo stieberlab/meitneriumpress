@@ -20,8 +20,10 @@ Illustrated by Justine Wong
 
 \_ 
 
-For bulk purchases or custom orders, please email [meitneriumpress@gmail.com](mailto:meitneriumpress@gmail.com)
+### 🌐 International orders are available through [eBay](https://www.ebay.com/itm/227083022593) or via email. 🌐
 
 \_ 
 
-International orders are available through [eBay](https://www.ebay.com/itm/227083022593) or via email.
+For bulk purchases or custom orders, please email [meitneriumpress@gmail.com](mailto:meitneriumpress@gmail.com)
+
+
