@@ -16,13 +16,13 @@ crystals, X-rays, chemistry, and more. Filled with 21 pages of colorful hand-dra
 
 50% of profits will support undergraduate education at the Cal Poly Pomona Crystallography Co-op.
 
+\
+
 [Buy Now](https://meitnerium-press.myshopify.com/products/x-ray-crystallography-adventures-cat-elephants-sugar-crystal-mystery){.buy-btn}
 
 \
 
 ### 🌐 International orders are available through [eBay](https://www.ebay.com/itm/227083022593?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339133177&toolid=80005&mkevt=1) or via email. 🌐
-
-\
 
 Printed in the USA with 100% recycled paper.
 
