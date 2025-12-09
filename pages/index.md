@@ -3,7 +3,7 @@ title: X-ray Crystallography Adventures! Cat & Elephant's Sugar Crystal Mystery
 ---
 
 
-Written by S. Chantal E. Stieber with Justine Wong
+Written by S. Chantal E. Stieber with Justine Wong,
 Illustrated by Justine Wong
 
 
@@ -12,7 +12,7 @@ Illustrated by Justine Wong
 
 Join Cat and Elephant as they bake a birthday cake for their friend Mouse
 and solve the mystery of why sugar is shiny.  Along the way, they learn about
-crystals, X-rays, chemistry, and more. Filled with 21 pages of colorful hand-drawn illustrations, this book is perfect for kids 4-12 or anyone who loves crystals.
+crystals, X-rays, chemistry, and more. Filled with 21 pages of colorful hand-drawn illustrations, this book is perfect for kids ages 4-12 or anyone who loves crystals.
 
 50% of profits will support undergraduate education at the Cal Poly Pomona Crystallography Co-op.
 
