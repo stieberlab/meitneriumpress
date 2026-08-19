@@ -31,15 +31,22 @@ For bulk purchases or custom orders, please email [meitneriumpress@gmail.com](ma
 ISBN 979-8-9934836-0-3
 
 \
-
-**About the Author:**
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <div>
+    **About the Author:**
 \
 ![Chantal Stieber](img/SCEStieber_2023.jpg){.bookimg}\
 \
 S. Chantal E. Stieber is a Chemistry Professor at California State Polytechnic University, Pomona who loves teaching everyone about science and the world around them. 
-
-**About the Illustrator:**
+  </div>
+  <div>
+    **About the Illustrator:**
 \
 ![Justine Wong holding book](img/Wong_Justine.jpg){.bookimg}\
 \
 Justine Wong is a recent graduate from California State Polytechnic University, Pomona and received her Bachelor’s degree in Biological Sciences. She has always had a love for art as a child, and that love grew from her visits to her godmother’s art studio. Justine later became fascinated with biology, and wanted to incorporate her love for art with science. Justine hopes to continue her education and obtain a Master’s in Medical Illustration.
+  </div>
+</div>
+
+
+
