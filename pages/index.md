@@ -33,7 +33,7 @@ ISBN 979-8-9934836-0-3
 \
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <div>
-    **About the Author:**
+    <b>**About the Author:**</b>
 \
 ![Chantal Stieber](img/SCEStieber_2023.jpg){.bookimg}\
 \
