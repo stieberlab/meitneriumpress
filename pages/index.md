@@ -59,6 +59,8 @@ Justine Wong is a recent graduate from California State Polytechnic University, 
 Join Cat and Elephant as they bake a birthday cake for their friend Mouse
 and solve the mystery of why sugar is shiny.  Along the way, they learn about
 crystals, X-rays, chemistry, and more. Filled with 21 pages of colorful hand-drawn illustrations, this book is perfect for kids ages 4-12 or anyone who loves crystals.
+    \
+    ISBN 979-8-9934836-0-3
   </div>
   <div>
     ---
@@ -68,6 +70,8 @@ crystals, X-rays, chemistry, and more. Filled with 21 pages of colorful hand-dra
 ![Cover Art Diamong](img/cover_diamond.jpg){.bookimg}\
 \
 Join Cat, Elephant, and Mouse as they solve the mystery of whether the shiny rocks they found on a hike are diamonds or not. Along the way, they learn about crystals, X-rays, chemistry, and more. Filled with 30 pages of colorful hand-drawn illustrations, this book is perfect for kids ages 4-12 or anyone who loves crystals.
+    \
+    ISBN 979-8-9934836-1-0
   </div>
 </div>
 
