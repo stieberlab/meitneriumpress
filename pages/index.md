@@ -45,8 +45,6 @@ Printed in the USA with 100% recycled paper.
 
 For bulk purchases or custom orders, please email [meitneriumpress@gmail.com](mailto:meitneriumpress@gmail.com)
 
-ISBN 979-8-9934836-0-3
-
 \
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <div>
