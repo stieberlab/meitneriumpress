@@ -31,7 +31,7 @@ Join Cat, Elephant, and Mouse as they solve the mystery of whether the shiny roc
   </div>
 </div>
 
-50% of profits will support undergraduate education at the Cal Poly Pomona Crystallography Co-op.
+**50% of profits will support undergraduate education at the Cal Poly Pomona Crystallography Co-op.**
 
 \
 
