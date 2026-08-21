@@ -6,6 +6,8 @@ title: X-ray Crystallography Adventures!
 Written by S. Chantal E. Stieber with Justine Wong,
 Illustrated by Justine Wong
 \
+
+\
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
   <div>
 Cat & Elephant's Sugar Crystal Mystery
