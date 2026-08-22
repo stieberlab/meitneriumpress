@@ -35,9 +35,16 @@ ul {
       cursor: pointer;
       transition: background 0.3s, transform 0.2s;
       outline: none;
-    }
-    .buy-btn:hover, .buy-btn:focus {
+}
+
+.buy-btn:hover, .buy-btn:focus {
       background: lightgreen;
       transform: translateY(-2px) scale(1.04);
       box-shadow: 0 6px 20px rgba(25, 118, 210, 0.18);
-    }
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
