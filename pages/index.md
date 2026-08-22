@@ -38,7 +38,7 @@ Join Cat, Elephant, and Mouse as they solve the mystery of whether the shiny roc
 
 ISBN 979-8-9934836-1-0
 
-[Preorder Now](https://meitnerium-press.myshopify.com/products/x-ray-crystallography-adventures-the-diamond-crystal-mystery){.buy-btn}
+[Preorder](https://meitnerium-press.myshopify.com/products/x-ray-crystallography-adventures-the-diamond-crystal-mystery){.buy-btn}
     
 :::::::
 </div>
