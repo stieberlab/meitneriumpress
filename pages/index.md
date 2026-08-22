@@ -29,6 +29,7 @@ ISBN 979-8-9934836-0-3
 
 ::::::: {#second}
 The Diamond Crystal Mystery
+
 Coming soon Oct. 31, 2026!!
 \
 ![Cover Art Diamong](img/cover_diamond.jpg){.bookimg}\
