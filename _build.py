@@ -10,7 +10,7 @@ imagesDir = "img"
 def buildPage(page, template):
     cmd = []
     cmd.append("pandoc")
-    cmd.append("--from=markdown")
+    cmd.append("--from=markdown+fenced_divs")
     cmd.append("--to=html")
     cmd.append(f"--output={outDir}/{page}.html")
     cmd.append(f"--template=templates/{template}.html")
