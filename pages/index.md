@@ -51,8 +51,7 @@ For bulk purchases or custom orders, please email [meitneriumpress@gmail.com](ma
 ::::: {#grid .grid}
 
 ::::::: {#first}
-
-    **About the Author:**
+**About the Author:**
 \
 ![Chantal Stieber](img/SCEStieber_2023.jpg){.bookimg}\
 \
@@ -60,7 +59,7 @@ S. Chantal E. Stieber is a Chemistry Professor at California State Polytechnic U
 :::::::
 
 ::::::: {#second}
-    **About the Illustrator:**
+**About the Illustrator:**
 \
 ![Justine Wong holding book](img/Wong_Justine.jpg){.bookimg}\
 \
