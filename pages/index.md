@@ -63,7 +63,7 @@ S. Chantal E. Stieber is a Chemistry Professor at California State Polytechnic U
 ::::::: {#second}
 **About the Illustrator:**
 \
-![Justine Wong holding book](img/Wong_Justine.jpg){.bookimg}\
+![Justine Wong caricature](img/Wong_Justine2.jpg){.bookimg}\
 \
 Justine Wong is a recent graduate from California State Polytechnic University, Pomona and received her Bachelor’s degree in Biological Sciences. She has always had a love for art as a child, and that love grew from her visits to her godmother’s art studio. Justine later became fascinated with biology, and wanted to incorporate her love for art with science. Justine hopes to continue her education and obtain a Master’s in Medical Illustration.
 :::::::
